@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "19678100-25E4-42B8-8195-5E37332EF27E",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:..\/Currency",
+        "identifier" : "CurrencyTests",
+        "name" : "CurrencyTests"
+      }
+    }
+  ],
+  "version" : 1
+}

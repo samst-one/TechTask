@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "5253C32B-71CD-44C9-9403-AF9B406AD4C7",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:RoundUpTestHarness.xcodeproj",
+        "identifier" : "65AF31452C3302B800B05F4D",
+        "name" : "RoundUpTestHarnessUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

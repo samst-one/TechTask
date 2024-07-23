@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "A57C4367-3524-4B29-94DA-D64D72407556",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SavingsTestHarness.xcodeproj",
+        "identifier" : "65E457532C32F0C8004620F5",
+        "name" : "SavingsTestHarnessUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

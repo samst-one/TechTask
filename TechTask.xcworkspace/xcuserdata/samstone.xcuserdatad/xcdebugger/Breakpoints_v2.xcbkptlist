@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "567F97E9-6B0A-4355-A979-F61BB8DBA8E0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78EE05E0-69E6-4D1D-9F1F-FF11E4C29326"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/Sources/Networking/Implementation/Networking Controllers/DefaultSavingsNetworkingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "add(balance:to:accountId:transferUuid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78EE05E0-69E6-4D1D-9F1F-FF11E4C29326 - e4ef039e0c4fd795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.DefaultSavingsNetworkingController.add(balance: Networking.Balance, to: Swift.String, accountId: Swift.String, transferUuid: Swift.String) async throws -&gt; ()"
+                  moduleName = "RoundUpTestHarness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Downloads/StarlingTechTask/Networking/Sources/Networking/Implementation/Networking%20Controllers/DefaultSavingsNetworkingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "78EE05E0-69E6-4D1D-9F1F-FF11E4C29326 - 333daf850bb53783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for Networking.DefaultSavingsNetworkingController.add(balance: Networking.Balance, to: Swift.String, accountId: Swift.String, transferUuid: Swift.String) async throws -&gt; ()"
+                  moduleName = "RoundUpTestHarness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Downloads/StarlingTechTask/Networking/Sources/Networking/Implementation/Networking%20Controllers/DefaultSavingsNetworkingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "78EE05E0-69E6-4D1D-9F1F-FF11E4C29326 - c07cd9d016669397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Networking.DefaultSavingsNetworkingController.add(balance: Networking.Balance, to: Swift.String, accountId: Swift.String, transferUuid: Swift.String) async throws -&gt; ()"
+                  moduleName = "RoundUpTestHarness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Downloads/StarlingTechTask/Networking/Sources/Networking/Implementation/Networking%20Controllers/DefaultSavingsNetworkingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "78EE05E0-69E6-4D1D-9F1F-FF11E4C29326 - 524a840f2d72f196"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Networking.DefaultSavingsNetworkingController.add(balance: Networking.Balance, to: Swift.String, accountId: Swift.String, transferUuid: Swift.String) async throws -&gt; ()"
+                  moduleName = "RoundUpTestHarness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Downloads/StarlingTechTask/Networking/Sources/Networking/Implementation/Networking%20Controllers/DefaultSavingsNetworkingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0478A1CB-9C47-4ED6-9C42-1872102EEF45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/Sources/Networking/Implementation/RequestSender.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "send(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0478A1CB-9C47-4ED6-9C42-1872102EEF45 - 64c08c46f902cc05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "StarlingTechTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "0478A1CB-9C47-4ED6-9C42-1872102EEF45 - 7a67aa97785ef394"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SavingsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8059367B-069E-4396-8F52-00F11F8BFAA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/Sources/Networking/Implementation/RequestSender.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "send(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8059367B-069E-4396-8F52-00F11F8BFAA2 - 64c08c46f902cdc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "StarlingTechTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "8059367B-069E-4396-8F52-00F11F8BFAA2 - 7a67aa97785ef252"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SavingsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "465277F8-D229-4B12-858E-C7E2F1B2C58B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/Sources/Networking/Implementation/RequestSender.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "send(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "465277F8-D229-4B12-858E-C7E2F1B2C58B - 64c08c46f902cd81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "StarlingTechTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "465277F8-D229-4B12-858E-C7E2F1B2C58B - 7a67aa97785ef210"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SavingsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63A2E723-18B0-47C9-83EC-3DE998527396"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/Sources/Networking/Implementation/RequestSender.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "send(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63A2E723-18B0-47C9-83EC-3DE998527396 - 64c08c46f902cd5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "StarlingTechTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "63A2E723-18B0-47C9-83EC-3DE998527396 - 7a67aa97785ef2ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.RequestSender.send&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(from: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SavingsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samstone/Development/StarlingTechTask/Networking/Sources/Networking/Implementation/RequestSender.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56C18F9A-2A43-48BA-9468-1A2F177A5027"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Savings/Sources/Savings/Implementation/Adapters/SavingsViewModelAdapter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "adapt(_:minorUnitsAdapter:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

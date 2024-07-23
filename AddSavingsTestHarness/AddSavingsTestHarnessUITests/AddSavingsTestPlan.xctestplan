@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "D81AA26A-362A-4F69-A1CC-479EE35EB87B",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:..\/AddSavingsTestHarness\/AddSavingsTestHarness.xcodeproj",
+        "identifier" : "65FB84D32C331367003F65FD",
+        "name" : "AddSavingsTestHarnessUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

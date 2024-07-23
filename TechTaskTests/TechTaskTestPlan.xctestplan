@@ -1,0 +1,106 @@
+{
+  "configurations" : [
+    {
+      "id" : "EF170289-6263-4BBA-90A1-CEB48719D4E0",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "locationScenario" : {
+      "identifier" : "London, England",
+      "referenceType" : "built-in"
+    },
+    "region" : "GB",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:AddSavingsGoal",
+        "identifier" : "AddSavingsGoalTests",
+        "name" : "AddSavingsGoalTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:AddSavingsTestHarness\/AddSavingsTestHarness.xcodeproj",
+        "identifier" : "65FB84D32C331367003F65FD",
+        "name" : "AddSavingsTestHarnessUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Auth",
+        "identifier" : "AuthTests",
+        "name" : "AuthTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Currency",
+        "identifier" : "CurrencyTests",
+        "name" : "CurrencyTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Home",
+        "identifier" : "HomeTests",
+        "name" : "HomeTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:HomeTestHarness\/HomeTestHarness.xcodeproj",
+        "identifier" : "654B69E72C32CE32003716BB",
+        "name" : "HomeTestHarnessUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:LocalServer",
+        "identifier" : "LocalServerTests",
+        "name" : "LocalServerTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Networking",
+        "identifier" : "NetworkingTests",
+        "name" : "NetworkingTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:RoundUp",
+        "identifier" : "RoundUpTests",
+        "name" : "RoundUpTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:RoundUpTestHarness\/RoundUpTestHarness.xcodeproj",
+        "identifier" : "65AF31452C3302B800B05F4D",
+        "name" : "RoundUpTestHarnessUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Savings",
+        "identifier" : "SavingsTests",
+        "name" : "SavingsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:SavingsTestHarness\/SavingsTestHarness.xcodeproj",
+        "identifier" : "65E457532C32F0C8004620F5",
+        "name" : "SavingsTestHarnessUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

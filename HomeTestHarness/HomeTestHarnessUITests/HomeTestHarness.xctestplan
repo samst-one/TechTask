@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "2DAC9008-C2A8-4AFE-B130-B2BFE419FE9B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:HomeTestHarness.xcodeproj",
+      "identifier" : "654B69C72C32CE31003716BB",
+      "name" : "HomeTestHarness"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:HomeTestHarness.xcodeproj",
+        "identifier" : "654B69E72C32CE32003716BB",
+        "name" : "HomeTestHarnessUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

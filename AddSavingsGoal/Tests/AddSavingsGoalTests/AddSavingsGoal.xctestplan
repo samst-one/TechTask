@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "78ADEC65-5B42-465B-8C05-486CD8CC4D1B",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "AddSavingsGoalTests",
+        "name" : "AddSavingsGoalTests"
+      }
+    }
+  ],
+  "version" : 1
+}

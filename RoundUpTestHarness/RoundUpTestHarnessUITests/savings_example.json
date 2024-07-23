@@ -1,0 +1,27 @@
+{
+  "savingsGoalList": [
+    {
+      "savingsGoalUid": "51391134-0d1b-4a5c-8a21-c32567744440",
+      "name": "A pet",
+      "target": {
+        "currency": "GBP",
+        "minorUnits": 200
+      },
+      "totalSaved": {
+        "currency": "GBP",
+        "minorUnits": 10274
+      },
+      "savedPercentage": 5137,
+      "state": "ACTIVE"
+    },
+    {
+      "savingsGoalUid": "second_savings_goal",
+      "name": "A pet",
+      "totalSaved": {
+        "currency": "GBP",
+        "minorUnits": 10274
+      },
+      "state": "SOME_UKNOWN_STATE"
+    }
+  ]
+}

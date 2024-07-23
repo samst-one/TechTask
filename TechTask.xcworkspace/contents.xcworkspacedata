@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AddSavingsTestHarness/AddSavingsTestHarness.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RoundUpTestHarness/RoundUpTestHarness.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SavingsTestHarness/SavingsTestHarness.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HomeTestHarness/HomeTestHarness.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalServer">
+   </FileRef>
+   <FileRef
+      location = "group:Savings">
+   </FileRef>
+   <FileRef
+      location = "group:Auth">
+   </FileRef>
+   <FileRef
+      location = "group:Currency">
+   </FileRef>
+   <FileRef
+      location = "group:RoundUp">
+   </FileRef>
+   <FileRef
+      location = "group:AddSavingsGoal">
+   </FileRef>
+   <FileRef
+      location = "group:UI">
+   </FileRef>
+   <FileRef
+      location = "group:Networking">
+   </FileRef>
+   <FileRef
+      location = "group:Home">
+   </FileRef>
+   <FileRef
+      location = "group:TechTask.xcodeproj">
+   </FileRef>
+</Workspace>

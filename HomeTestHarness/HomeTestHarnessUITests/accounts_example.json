@@ -1,0 +1,44 @@
+{
+    "accounts": [
+        {
+            "accountUid": "account_uid",
+            "accountType": "PRIMARY",
+            "defaultCategory": "default_category",
+            "currency": "GBP",
+            "createdAt": "2024-06-28T19:05:02.815Z",
+            "name": "Personal"
+        },
+        {
+            "accountUid": "51395678-d6ec-430d-9b3c-a887d90289c1",
+            "accountType": "ADDITIONAL",
+            "defaultCategory": "513954fa-e2ad-447e-95fc-8613a5cdce92",
+            "currency": "GBP",
+            "createdAt": "2024-06-28T19:05:02.815Z",
+            "name": "Personal"
+        },
+        {
+            "accountUid": "51395678-d6ec-430d-9b3c-a887d90289c1",
+            "accountType": "LOAN",
+            "defaultCategory": "513954fa-e2ad-447e-95fc-8613a5cdce92",
+            "currency": "GBP",
+            "createdAt": "2024-06-28T19:05:02.815Z",
+            "name": "Personal"
+        },
+        {
+            "accountUid": "51395678-d6ec-430d-9b3c-a887d90289c1",
+            "accountType": "FIXED_TERM_DEPOSIT",
+            "defaultCategory": "513954fa-e2ad-447e-95fc-8613a5cdce92",
+            "currency": "GBP",
+            "createdAt": "2024-06-28T19:05:02.815Z",
+            "name": "Personal"
+        },
+        {
+            "accountUid": "51395678-d6ec-430d-9b3c-a887d90289c1",
+            "accountType": "TBC",
+            "defaultCategory": "513954fa-e2ad-447e-95fc-8613a5cdce92",
+            "currency": "GBP",
+            "createdAt": "2024-06-28T19:05:02.815Z",
+            "name": "Personal"
+        }
+    ]
+}

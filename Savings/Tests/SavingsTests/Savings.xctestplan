@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "4C301318-BF19-41C4-9DCC-0203131B6E92",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "SavingsTests",
+        "name" : "SavingsTests"
+      }
+    }
+  ],
+  "version" : 1
+}

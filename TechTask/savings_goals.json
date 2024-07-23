@@ -1,0 +1,41 @@
+{
+  "savingsGoalList": [
+    {
+      "savingsGoalUid": "51391134-0d1b-4a5c-8a21-c32567744440",
+      "name": "A pet",
+      "target": {
+        "currency": "GBP",
+        "minorUnits": 5000
+      },
+      "totalSaved": {
+        "currency": "GBP",
+        "minorUnits": 2500
+      },
+      "savedPercentage": 50,
+      "state": "ACTIVE"
+    },
+    {
+      "savingsGoalUid": "51391134-0d1b-4a5c-8a21-c32567744440",
+      "name": "New laptop",
+      "target": {
+        "currency": "GBP",
+        "minorUnits": 102700
+      },
+      "totalSaved": {
+        "currency": "GBP",
+        "minorUnits": 20540
+      },
+      "savedPercentage": 20,
+      "state": "ACTIVE"
+    },
+    {
+      "savingsGoalUid": "51391134-0d1b-4a5c-8a21-c32567744440",
+      "name": "House",
+      "totalSaved": {
+        "currency": "GBP",
+        "minorUnits": 10274
+      },
+      "state": "SOME_UKNOWN_STATE"
+    }
+  ]
+}

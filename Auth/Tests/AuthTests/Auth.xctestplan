@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "7C7F90AB-BD9C-49D7-B0ED-C7B44C9D16FC",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:..\/Auth",
+        "identifier" : "AuthTests",
+        "name" : "AuthTests"
+      }
+    }
+  ],
+  "version" : 1
+}

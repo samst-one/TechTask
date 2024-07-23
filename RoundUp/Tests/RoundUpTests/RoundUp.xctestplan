@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "87B81FB4-CAAC-41D1-98E7-0177E9B06944",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "RoundUpTests",
+        "name" : "RoundUpTests"
+      }
+    }
+  ],
+  "version" : 1
+}
