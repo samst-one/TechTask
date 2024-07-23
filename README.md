@@ -4,6 +4,8 @@ This repo contains my completed Tech Task for an anon company. It is built using
 
 To anonymize the test, dummy data is returned from a local server that is started at launch of the app.
 
+The app can be run by building the `TechTask` scheme.
+
 ## Architecture 
 
 This project is divided up into several modules. It relies on a combination of feature and service modules. Feature modules host cohesive sets of user facing functionality (in this particular case, each screen is a feature module), and services contain cohesive chunks of repeatable logic used throughout the app. Features may not know about other features to avoid coupling but features may rely upon services at their boundaries. 
